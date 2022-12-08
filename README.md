@@ -4,9 +4,22 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cromerc&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=resume&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=resume&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai-server&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=tuf-manager&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai-server&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=opensysusers&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=jvon&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=obelisk&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=tuf-manager&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=opensysusers&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=jvon&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=azaraka&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=mt&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=Estructuras_de_Datos&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
