@@ -1,25 +1,36 @@
-[![Chris Cromer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromerc&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Chris Cromer
+#### I am a computer engineer.
+I am a husband and father. I love to watch movies, play video games, and listen to music.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cromerc&layout=compact&theme=github_dark&langs_count=10&exclude_repo=ygopro&hide=java,html,javascript,Objective-C,Makefile,Shell,Meson,Roff,CSS,M4,QMake,Python,Dockerfile,GLSL)](https://github.com/anuraghazra/github-readme-stats)
+Skills: C++ / C# / Godot / Unity / Vue.js / Go / Java
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cromerc&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on my thesis. 
+- 🌱 I’m currently learning dotnet. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=resume&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cromerc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chris-cromer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3685778)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ChrisCromer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cromer.cl)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cromerc&count_private=true&show_icons=true&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai-server&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cromerc&layout=compact&theme=github_dark&langs_count=10&exclude_repo=ygopro&hide=java,html,javascript,Objective-C,Makefile,Shell,Meson,Roff,CSS,M4,QMake,Python,Dockerfile,GLSL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=obelisk&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=cromerc&theme=algolia)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=tuf-manager&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=resume&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=opensysusers&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=jvon&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai-server&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=azaraka&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=obelisk&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=mt&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=tuf-manager&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=Estructuras_de_Datos&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=opensysusers&theme=github_dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=jvon&theme=github_dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=azaraka&theme=github_dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=mt&theme=github_dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=Estructuras_de_Datos&theme=github_dark)
