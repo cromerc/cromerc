@@ -12,25 +12,3 @@ Skills: C++ / C# / Godot / Unity / Vue.js / Go / Java
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cromerc&count_private=true&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cromerc&layout=compact&theme=github_dark&langs_count=10&exclude_repo=ygopro&hide=java,html,javascript,Objective-C,Makefile,Shell,Meson,Roff,CSS,M4,QMake,Python,Dockerfile,GLSL)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=cromerc&theme=algolia)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=resume&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=alai-server&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=obelisk&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=tuf-manager&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=opensysusers&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=jvon&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=azaraka&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=mt&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cromerc&repo=Estructuras_de_Datos&theme=github_dark)
