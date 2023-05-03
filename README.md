@@ -8,4 +8,4 @@ Skills: C++ / C# / Godot / Unity / Vue.js / Go / Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cromerc&count_private=true&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cromerc&layout=compact&theme=github_dark&langs_count=10&exclude_repo=ygopro&hide=html,javascript,Objective-C,Makefile,Shell,Meson,Roff,CSS,M4,QMake,Python,Dockerfile,GLSL,ShaderLab)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cromerc&layout=compact&theme=github_dark&langs_count=10&exclude_repo=ygopro&hide=html,javascript,Objective-C,Makefile,Shell,Meson,Roff,CSS,M4,QMake,Python,Dockerfile,GLSL,ShaderLab,SCSS)
