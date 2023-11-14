@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Chris Cromer
-#### I am a computer engineer.
+#### I am a software engineer.
 I am a husband and father. I love to watch movies, play video games, and listen to music.
 
 Skills: C++ / C# / Godot / Unity / Vue.js / Go / Java
